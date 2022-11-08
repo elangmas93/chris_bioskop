@@ -1,4 +1,4 @@
-# **Book Store Management System in PHP - CodeIgniter 3.1.13**
+# **Bioskop Store Management System in PHP - CodeIgniter 3.1.13**
 
 =============================================
 **Database Name: ci_bsms_db**
